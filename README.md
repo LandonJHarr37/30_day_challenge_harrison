@@ -1,4 +1,4 @@
-30 day python challenge for beginners, to help me learn about python. 
+30 day python challenge for beginners, to help me learn about python. From Oren Cohen (https://thegeekwriter.gumroad.com/l/lzyzw)
 
 (Day 1: introduce myself to the discord.)<br>
 (Day 2: download python. I had some trouble, I had to delete and redownload python.) <br>
