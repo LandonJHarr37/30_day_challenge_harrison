@@ -7,3 +7,5 @@
 (Day 5: added a header, comments, and an introduction sentence to hello_world. Experimented with a string that was too long for one proper line in python: 
   used a backslash to append and used indentation.) <br>
 (Day 6: experimented with operators in operators_class.py, simulated a snipbit of a math class) <br>
+(Day 7: using variables and experimenting with print formatting)  use of print(f"{}") as opposed to commas seems more efficient when inputing variables <br>
+(Day 8: use of if statements in a function definition to complete a simple traffic light scenario) <br>
