@@ -11,3 +11,5 @@
 (Day 8: use of if statements in a function definition to complete a simple traffic light scenario) <br>
 (Day 9: "Organizing your data", Oren has a lesson on the implementation of Lists and Dictionaries to store data. Learning 
   to understand when to use a list or a dictionary.) <br>
+(Day 10: use of for loops to print strings and modify numbers in a list; in second for loop, I added the cube of each of 
+  the numbers to a new list in a spot respective to the original list; this solution seemed cleaner and allows for the reuse of the cubed numbers) <br>
