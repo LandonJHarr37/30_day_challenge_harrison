@@ -14,3 +14,4 @@
 (Day 10: use of for loops to print strings and modify numbers in a list; in second for loop, I added the cube of each of 
   the numbers to a new list in a spot respective to the original list; this solution seemed cleaner and allows for the reuse of the cubed numbers) <br>
 (Day 11: use of While loops, second loop quits when user feeds "quit" to input prompt) <br>
+(Day 12: using split, capitalize, and some substring tricks, manipulate user inputed strings) <br>
