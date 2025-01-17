@@ -15,3 +15,4 @@
   the numbers to a new list in a spot respective to the original list; this solution seemed cleaner and allows for the reuse of the cubed numbers) <br>
 (Day 11: use of While loops, second loop quits when user feeds "quit" to input prompt) <br>
 (Day 12: using split, capitalize, and some substring tricks, manipulate user inputed strings) <br>
+(Day 13: using functions to create a simple calculator and string reversing code within a class) <br>
