@@ -1,0 +1,4 @@
+
+My name is Landon and I am practicing file management using a context manager.
+
+I am sitting with my flatemate in Italy and writing code.

@@ -16,3 +16,4 @@
 (Day 11: use of While loops, second loop quits when user feeds "quit" to input prompt) <br>
 (Day 12: using split, capitalize, and some substring tricks, manipulate user inputed strings) <br>
 (Day 13: using functions to create a simple calculator and string reversing code within a class) <br>
+(Day 14: Context managers; Learning a more efficient and clean way to interact with files that does not require as much boilerplate code) <br>
