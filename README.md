@@ -17,3 +17,4 @@
 (Day 12: using split, capitalize, and some substring tricks, manipulate user inputed strings) <br>
 (Day 13: using functions to create a simple calculator and string reversing code within a class) <br>
 (Day 14: Context managers; Learning a more efficient and clean way to interact with files that does not require as much boilerplate code) <br>
+(Day 15: Created a code to keep a personal diary; each entry is time stamped and dated. I plan to come back to this code with the following adjustments: format the time stamp/date and allow for user input (currently hardcoding one entry)) <br>
